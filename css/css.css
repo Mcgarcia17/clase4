@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+body{
+    background-color: rgb(255, 196, 0);
+    
+}
+h1{
+    padding: 15px;
+    border: 10px;
+    border-style:dotted;
+    color: rgb(255, 34, 0);
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase /*para poner mayuscula una letra o toda la palabra*/
+
+}
+p{
+    border-radius: 20px;
+    background-color:rgb(50, 50, 50);
+    border-color: rgb(255, 0, 0);
+    border-style: dashed;
+    padding: 10px;
+    color: rgb(0, 115, 255);
+    text-align: justify;/*alineado a la izq y der*/
+}
+img{
+    width: 37%;
+}
